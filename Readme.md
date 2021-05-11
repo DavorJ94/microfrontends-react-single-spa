@@ -6,6 +6,8 @@ Navbar is the third React project which is present on both pages. React-router-d
 
 Independently created projects communicate with each other using window object. Also, local storage is utilized so every task user adds or deletes is saved, unless the user deletes the task permanently on the trash page.
 
+Modular CSS is implemented for better separation between the projects and components. Also, instead of importing icon libraries, CSS sprites are used (one png image with all icons placed near each other, and their manipulation is managed with CSS positioning).
+
 Starting the application:
 
 `cd container-app`
