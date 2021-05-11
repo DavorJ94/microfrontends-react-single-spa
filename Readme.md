@@ -26,4 +26,4 @@ The above lines will initiate container app at port 9000 by default.
 `npm install`
 `npm start -- --port 9003`
 
-go to [http://localhost:9000] [http://localhost:9000]
+go to [http://localhost:9000] (http://localhost:9000)
